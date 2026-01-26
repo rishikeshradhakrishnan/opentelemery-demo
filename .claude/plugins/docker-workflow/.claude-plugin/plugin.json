@@ -1,9 +1,0 @@
-{
-  "name": "docker-workflow",
-  "version": "1.0.0",
-  "description": "Docker Compose workflow automation for OpenTelemetry Demo - build, debug, and iterate on services",
-  "author": {
-    "name": "OpenTelemetry Demo Contributors"
-  },
-  "keywords": ["docker", "compose", "build", "debugging", "microservices"]
-}
