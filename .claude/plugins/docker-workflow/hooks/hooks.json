@@ -1,0 +1,13 @@
+{
+  "PostToolUse": [
+    {
+      "matcher": "Bash",
+      "hooks": [
+        {
+          "type": "prompt",
+          "prompt": "Check if the Bash command output indicates a Docker build or runtime failure. Look for patterns like: 'ERROR', 'failed to solve', 'exited with code', 'port is already allocated', 'no space left', 'connection refused', 'unhealthy', or container crash messages. If a Docker-related failure is detected, briefly note the issue and suggest using the docker-troubleshooter agent for detailed analysis. If no failure is detected, respond with just 'ok' and nothing else."
+        }
+      ]
+    }
+  ]
+}

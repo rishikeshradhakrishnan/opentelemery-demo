@@ -53,29 +53,6 @@ For detailed documentation, see [Demo Documentation][docs]. If you're curious
 about a specific feature, the [docs landing page][docs] can point you in the
 right direction.
 
-## Demos featuring the Astronomy Shop
-
-We welcome any vendor to fork the project to demonstrate their services and
-adding a link below. The community is committed to maintaining the project and
-keeping it up to date for you.
-
-|                           |                |                                  |
-|---------------------------|----------------|----------------------------------|
-| [AlibabaCloud LogService] | [Google Cloud] | [Parseable]                      |
-| [Apache Doris]            | [Grafana Labs] | [Sentry]                         |
-| [AppDynamics]             | [Guance]       | [ServiceNow Cloud Observability] |
-| [Aspecto]                 | [Honeycomb.io] | [SigNoz]                         |
-| [Axiom]                   | [Instana]      | [Splunk]                         |
-| [Axoflow]                 | [Kloudfuse]    | [Sumo Logic]                     |
-| [Azure Data Explorer]     | [Last9]        | [TelemetryHub]                   |
-| [Causely]                 | [Liatrio]      | [Teletrace]                      |
-| [ClickStack]              | [Logz.io]      | [Tinybird]                       |
-| [Coralogix]               | [New Relic]    | [Tracetest]                      |
-| [Dash0]                   | [Oodle]        | [Uptrace]                        |
-| [Datadog]                 | [OpenObserve]  | [VictoriaMetrics]                |
-| [Dynatrace]               | [OpenSearch]   |                                  |
-| [Elastic]                 | [Oracle]       |                                  |
-
 ## Contributing
 
 To get involved with the project see our [CONTRIBUTING](CONTRIBUTING.md)
