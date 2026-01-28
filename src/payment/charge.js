@@ -23,6 +23,7 @@ function random(arr) {
 
 module.exports.charge = async request => {
   const span = tracer.startSpan('charge');
+  if (Math.random() < 0.3) throw new Error("Connection timeout");
 
   await OpenFeature.setProviderAndWait(flagProvider);
 
